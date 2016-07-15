@@ -38,3 +38,18 @@ def add(a,b)
 
 end
 add(2,4)
+
+def sub(a,b)
+	puts a - b 
+end
+sub(2,4)
+
+def mult(a,b)
+	puts a * b 
+end
+mult(2,4)
+
+def div(a,b)
+	puts a / b 
+end
+div(4,2)
